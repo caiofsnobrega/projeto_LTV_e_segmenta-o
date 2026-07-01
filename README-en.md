@@ -48,7 +48,25 @@ The final model successfully brought the $R^2$ into positive territory at **0.05
 *(Tip: You can display your saved images here)*
 ![Centroids Plot](images/grafico_centroides.png)
 ![Feature Importance](images/importancia_features.png)
+## Visualizações Geradas no Projeto:
 
+### Agrupamentos:
+
+![Clusters Visualization](images/grafico_pairplot.png)
+
+![centroids Plot](images/grafico_centroides.png)
+
+![Elbow Method](images/grafico_cotovelo.png)
+
+### Distributions:
+
+![Distributions without treatment plot](images/grafico_distribuicoes.png)
+
+![Normalized Features](images/grafico_normalizadas.png)
+
+### Feature Importances:
+
+![Features Importances](images/grafico_importancias.png)
 ---
 
 ## 🧠 Conclusion and Takeaways
